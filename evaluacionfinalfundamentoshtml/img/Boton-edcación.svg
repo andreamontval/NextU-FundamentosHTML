@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="37.473446mm"
+   height="9.1539927mm"
+   viewBox="0 0 37.473445 9.1539928"
+   version="1.1"
+   id="svg62"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Boton-edcación.svg">
+  <defs
+     id="defs56">
+    <linearGradient
+       id="linearGradient877"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.21960784;"
+         offset="0"
+         id="stop875" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient877"
+       id="linearGradient879"
+       x1="30.994047"
+       y1="86.089279"
+       x2="74.839279"
+       y2="86.089279"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.83292074,0,0,0.53748103,3.7379101,43.810598)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.7443969"
+     inkscape:cx="86.572825"
+     inkscape:cy="20.904266"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata59">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.010938,-85.292652)">
+    <rect
+       style="opacity:0.98999999;fill:#f5f5f5;fill-opacity:1;stroke:url(#linearGradient879);stroke-width:0.86981475;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.95979901"
+       id="rect64"
+       width="36.519608"
+       height="8.1262016"
+       x="29.553495"
+       y="86.018852"
+       transform="matrix(0.99999059,-0.00433884,0.01037734,0.99994615,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:0;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="36.178505"
+       y="91.729408"
+       id="text68"><tspan
+         sodipodi:role="line"
+         id="tspan66"
+         x="36.178505"
+         y="91.729408"
+         style="font-size:5.64444447px;stroke-width:0.26458332">Educación</tspan></text>
+  </g>
+</svg>
